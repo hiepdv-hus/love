@@ -30,7 +30,7 @@ audio,
 }
 
 .love_you {
-    top: 45%;
+    top: 35%;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 1.3rem;
     font-weight: bold;
@@ -43,7 +43,9 @@ audio,
     -webkit-text-shadow: 0 0 8px #fff;
     text-shadow: 0 0 8px #fff;
 }
-
+.love_you img{
+    border-radius: 50%;
+}
 #lovexf {
     position: absolute;
     width: 100%;
