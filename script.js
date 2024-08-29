@@ -183,7 +183,7 @@ var ParticlePool = (function () {
         context.closePath();
         // create the fill
         // context.fillStyle = '#c88ffe';
-        context.fillStyle = '##eb2d2d';
+        context.fillStyle = '#eb2d2d';
         context.fill();
         // create the image
         var image = new Image();
